@@ -6,10 +6,9 @@ cmake ..
 make
 ```
 
-# rapport 
+# présentation 
 https://fr.overleaf.com/8346537748xkshvfdbfsnw
 
-https://www.overleaf.com/read/fgkczrshcpzt
 # auteurs
 Anthony Gasca \
 Léo Vandrepol \
